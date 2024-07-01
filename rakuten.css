@@ -1,0 +1,67 @@
+header{
+    background-color: #d8d8ff;
+    height: 700px;
+    width:100%;
+    display: flex;
+    gap: 10%;
+    align-items: center;
+    padding: auto 10%;
+}
+.header-para{
+    /* padding-top: 5%; */
+    padding-left: 10% ; 
+}
+.list{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 3%;
+}
+.card{
+    justify-content: center;
+    align-items: center; 
+    border-top: 3rem solid #b9b9f0; 
+    border-bottom: 3rem solid #b9b9f0;   
+}
+.main-1{
+    display: flex;
+    gap: 10%;
+    padding: 1rem 2rem;
+    justify-content: center;
+    background-color: #efeff8;;
+    align-items: center;
+}
+.join{
+    font-weight:500;
+    display: grid;
+}
+.shop{
+    font-weight:500;
+}
+.main-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0 0 15%;
+    font-size:large;
+}
+.main-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 15% 0 0;
+    font-size:large;
+}
+.main-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0 0 15%;
+    font-size:large;
+}
+.add-btn{
+    height: 20rem;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
